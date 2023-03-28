@@ -5,6 +5,7 @@
 VAR
 		//cmt1
 		btest_1:BOOL;
+	btest_2: BOOL;
 		
 END_VAR
 ]]></Declaration>
